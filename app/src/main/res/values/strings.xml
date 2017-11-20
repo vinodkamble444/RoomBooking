@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Room Booking</string>
+    <string name="version">Version</string>
+
+    <!--Toolbar menus-->
+    <string name="refresh">Refresh</string>
+
+    <!--App Message-->
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="connection_error">Internet connection lost!</string>
+
+    <!--User Validation-->
+    <string name="empty_email">Please provide a non empty email.</string>
+    <string name="invalid_email">Please provide a valid email.</string>
+    <string name="invalid_phone">Please provide a valid phone.</string>
+    <string name="empty_field">Please provide user data</string>
+
+    <!--empty state-->
+    <string name="empty_user_list">Please add Users \n to book Room.</string>
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="please_add_user">Please add Users</string>
+    <string name="retry">Retry</string>
+    <string name="day_scroll_date_picker">Select date</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="add_user">Add User</string>
+    <string name="user_added">User Added</string>
+    <string name="min_30">30 mins</string>
+    <string name="min_45">45 mins</string>
+    <string name="min_60">60 mins</string>
+    <string name="min_75">75 mins</string>
+    <string name="min_90">90 mins</string>
+    <string name="min_105">105 mins</string>
+
+    <string name="select_timeslot">Select Timeslot</string>
+    <string name="dialog_title">Booking Done</string>
+    <string name="dialog_message">Room has been booked successfully</string>
+
+</resources>
